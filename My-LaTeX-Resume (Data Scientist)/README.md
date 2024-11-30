@@ -4,7 +4,7 @@ Welcome to my GitHub repository! This repository contains my resume, showcasing 
 
 ## 📄 Resume Link
 
-You can view and download my detailed resume using the following link:
+You can run after upload my tex file view and download my detailed resume using the following link:
 
 [Resume - Achhuta Nand Jha](https://www.overleaf.com/project/674b6e723555d13e47a2458c)
 
