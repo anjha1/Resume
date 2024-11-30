@@ -10,7 +10,7 @@ You can view and download my detailed resume using the following link:
 
 ## 💼 Skills and Expertise
 
-- **Programming Languages**: Python, SQL, JavaScript
+- **Programming Languages**: Python, SQL, JavaScript,Java
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Power BI, Tableau, DAX
 - **Machine Learning & AI**: AutoAI, Scikit-learn, TensorFlow, NLP
 - **Cloud & Big Data**: GCP, AWS, IBM Cloud, Hadoop, Spark
