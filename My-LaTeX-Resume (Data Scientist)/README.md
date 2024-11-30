@@ -31,8 +31,8 @@ You can run after upload my tex file view and download my detailed resume using 
 
 ## 📫 How to Reach Me
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Achhuta Nand Jha](https://www.linkedin.com/in/yourprofile)
+- **Email**: achhutanandj@gmail.com
+- **LinkedIn**: [Achhuta Nand Jha]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/achhuta-nand-jha-2b10a5248/))
 
 Feel free to check out the projects and follow me for updates!
 
